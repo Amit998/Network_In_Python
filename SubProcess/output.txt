@@ -1,0 +1,12 @@
+ Volume in drive D is DATA
+ Volume Serial Number is EE0C-1F4A
+
+ Directory of D:\study\python\SubProcess
+
+19-12-2020  12:17    <DIR>          .
+19-12-2020  12:17    <DIR>          ..
+19-12-2020  12:18               563 main.py
+19-12-2020  12:10                25 module.txt
+19-12-2020  12:18                 0 output.txt
+               3 File(s)            588 bytes
+               2 Dir(s)   4,163,170,304 bytes free
